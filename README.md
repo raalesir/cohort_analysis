@@ -22,3 +22,7 @@ whether it is possible to explan the almost doubled sugar
 consumption for some African countries during 1986-2004, based on
 the increase of the GDP  observed in those countries during the same
 period.
+
+The [data](href="https://www.kaggle.com/angelmm/healthteethsugar">) 
+used are open and located at Kaggle.
+
